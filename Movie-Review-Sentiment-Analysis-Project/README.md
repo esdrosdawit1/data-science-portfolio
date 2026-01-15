@@ -23,5 +23,3 @@ Code: [Sentiment Analysis of Movie Reviews.ipynb](./Movie-Review-Sentiment-Analy
 
 ## Data
 The IMDB movie reviews dataset was used for this project.
-
-#NLP #SentimentAnalysis #MachineLearning #IMDB #MovieReviews #Python #DataScience
