@@ -19,7 +19,7 @@ Develop a model that achieves an F1 score of at least 0.85 in classifying movie 
 The model achieved an F1 score above the target threshold, indicating its effectiveness in sentiment analysis.
 
 ## Code
-Code: [Sentiment Analysis of Movie Reviews.ipynb](./Movie-Review-Sentiment-Analysis-Project.ipynb)
+Code: [Sentiment Analysis of Movie Reviews.ipynb](https://github.com/esdrosdawit1/data-science-portfolio/blob/main/Movie-Review-Sentiment-Analysis-Project/Movie-Review-Sentiment-Analysis-Project.ipynb)
 
 ## Data
 The IMDB movie reviews dataset was used for this project.
