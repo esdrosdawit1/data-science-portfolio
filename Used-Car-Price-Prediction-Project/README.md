@@ -24,7 +24,7 @@ Develop a model that accurately predicts used car prices while considering predi
 - **Linear Regression**: RMSE = 3216.39, train time = 22.45s.
 
 ## Code
-The code is in `Used-Car-Price-Prediction-Project.ipynb`.
+Code: [Used Car Price Prediction.ipynb](https://github.com/esdrosdawit1/data-science-portfolio/blob/main/Used-Car-Price-Prediction-Project/Used-Car-Price-Prediction-Project.ipynb)
 
 ## Data
 The dataset contains technical specifications and prices of used cars. Due to data privacy restrictions, the dataset is not publicly available.
