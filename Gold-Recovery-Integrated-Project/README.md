@@ -21,7 +21,7 @@ Develop a model to predict gold recovery and evaluate its performance.
 Random Forest performed best with a final sMAPE of 8.58 (validation) and 12.10 (test set). Other models: Linear Regression (sMAPE = 13.18), Decision Tree (sMAPE = 12.86).
 
 ## Code
-Code: [Age Detection using Computer Vision.ipynb](https://github.com/esdrosdawit1/data-science-portfolio/blob/main/Gold-Recovery-Integrated-Project/Gold-Recovery-Integrated-Project.ipynb)
+Code: [Gold Recovery Prediction.ipynb](https://github.com/esdrosdawit1/data-science-portfolio/blob/main/Gold-Recovery-Integrated-Project/Gold-Recovery-Integrated-Project.ipynb)
 
 ## Data
 The gold recovery dataset contains industrial process measurements. Due to data privacy restrictions, the dataset is not publicly available.
